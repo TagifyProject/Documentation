@@ -1,0 +1,28 @@
+site_name: Tagify
+repo_url: https://github.com/TagifyProject/Tagify
+repo_name: TagifyProject/Tagify
+site_description: Tagify is an AI powered file organizer that automatically tags your files based on their content.
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/TagifyProject
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@TagifyProject
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+
+markdown_extensions:
+  - markdown.extensions.admonition:
+
+plugins:
+  - search
+  - mkdocs-nav-weight

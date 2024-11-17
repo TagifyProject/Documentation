@@ -14,7 +14,7 @@ Welcome to the Tagify documentation! Tagify is an AI powered file organizer that
 
 ## Installation
 
-To install Tagify, download the latest installer from the [releases page](https://github.com/TagifyProject/Releases/releases).
+To install Tagify, download the latest installer from the [releases page](https://github.com/TagifyProject/Tagify/releases).
 
 Then, go through the wizard like you would with any other software.
 
